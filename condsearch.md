@@ -40,3 +40,9 @@ subtitle: Korean Children's Speech Archive
 - [ ] &nbsp;mild
 - [ ] &nbsp;moderate
 - [ ] &nbsp;severe
+
+<ul class="task-list">
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled">Mercury</li>
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled">Venus</li>
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled">Earth</li>
+</ul>
