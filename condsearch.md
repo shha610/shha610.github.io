@@ -36,7 +36,7 @@ subtitle: Korean Children's Speech Archive
 
 #### Severity of Speech sound disorders
 
-- [ ] &nbsp;all
+<input type="checkbox" class="task-list-item-checkbox">all <input type="checkbox" class="task-list-item-checkbox">mild
 - [ ] &nbsp;mild
 - [ ] &nbsp;moderate
 - [ ] &nbsp;severe
