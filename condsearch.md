@@ -8,41 +8,46 @@ subtitle: Korean Children's Speech Archive
 
 #### Data types  
 
-- [ ] &nbsp;words
-- [ ] &nbsp;connected speech 
-- [ ] &nbsp;spontaneous speech
+<ul class="task-list">
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> words</li>
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> connected speech</li>
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> spontaneous speech</li>
+</ul>
 
 #### Child sex  
 
-- [ ] &nbsp;boys  
-- [ ] &nbsp;girls
+<ul class="task-list">
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> boys</li>
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> girls</li>
+</ul>
 
 #### Child age
 
-- [ ] &nbsp;2
-- [ ] &nbsp;3
-- [ ] &nbsp;4
-- [ ] &nbsp;5
-- [ ] &nbsp;6
-- [ ] &nbsp;7
-- [ ] &nbsp;8
-- [ ] &nbsp;9
-- [ ] &nbsp;10
+<ul class="task-list">
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> 2</li>
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> 3</li>
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> 4</li>
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> 5</li>
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> 6</li>
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> 7</li>
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> 8</li>
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> 9</li>
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> 10</li>
+</ul>
 
 #### Speech acquisition
 
-- [ ] &nbsp;typical
-- [ ] &nbsp;pathological (speech sound disorders)
+<ul class="task-list">
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> typical</li>
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> pathological (speech sound disorders)</li>
+</ul>
+
 
 #### Severity of Speech sound disorders
 
-<input type="checkbox" class="task-list-item-checkbox">all <input type="checkbox" class="task-list-item-checkbox">mild
-- [ ] &nbsp;mild
-- [ ] &nbsp;moderate
-- [ ] &nbsp;severe
-
 <ul class="task-list">
-    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox">Mercury</li>
-    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled">Venus</li>
-    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled">Earth</li>
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> all</li>
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> mild</li>
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> moderate</li>
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> severe</li>
 </ul>
