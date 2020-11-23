@@ -8,21 +8,35 @@ subtitle: Korean Children's Speech Archive
 
 #### Data types  
 
-- [ ] words
-- [ ] connected speech 
-- [ ] spontaneous speech
+- [ ] &nbsp;words
+- [ ] &nbsp;connected speech 
+- [ ] &nbsp;spontaneous speech
 
 #### Child sex  
-boys [ ]          girls [ ]
+
+- [ ] &nbsp;boys  
+- [ ] &nbsp;girls
 
 #### Child age
 
-2 [ ] 3 [ ] 4 [ ] 5 [ ] 6 [ ] 7 [ ] 8 [ ] 9 [ ] 10 [ ] 
+- [ ] &nbsp;2
+- [ ] &nbsp;3
+- [ ] &nbsp;4
+- [ ] &nbsp;5
+- [ ] &nbsp;6
+- [ ] &nbsp;7
+- [ ] &nbsp;8
+- [ ] &nbsp;9
+- [ ] &nbsp;10
 
 #### Speech acquisition
 
-typical [ ]  pathological (speech sound disorders) [ ]
+- [ ] &nbsp;typical
+- [ ] &nbsp;pathological (speech sound disorders)
 
 #### Severity of Speech sound disorders
 
-all [ ] mild [ ] moderate [ ] severe [ ]
+- [ ] &nbsp;all
+- [ ] &nbsp;mild
+- [ ] &nbsp;moderate
+- [ ] &nbsp;severe
