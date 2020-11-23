@@ -1,8 +1,11 @@
 ---
 layout: page
-title: ICSL
-subtitle: Intelligent Connected Systems Laboratory
+title: KCSA
+subtitle: Korean Children's Speech Archive
 ---
+
+![title](kcsa_logo.png)
+
 
 ### For prospective students
 
