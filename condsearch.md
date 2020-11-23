@@ -9,6 +9,8 @@ subtitle: Korean Children's Speech Archive
 #### Data types  
 words - [ ]        connected speech [ ]         spontaneous speech [ ]
 
+- [ ] words
+
 #### Child sex  
 boys [ ]          girls [ ]
 
