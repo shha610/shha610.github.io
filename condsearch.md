@@ -6,12 +6,10 @@ subtitle: Korean Children's Speech Archive
 
 ### Conditional Search
 
-#### Data types
-
+#### Data types  
 words [  ]        connected speech [ ]         spontaneous speech [ ]
 
-#### Child sex
-
+#### Child sex  
 boys [ ]          girls [ ]
 
 #### Child age
